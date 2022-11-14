@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "points_JuanLlorens",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25830" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "CoorX": "754309.7363372863", "CoorY": "4273474.427083163", "Lat": "38,57340", "Long": "-0,08080" }, "geometry": { "type": "Point", "coordinates": [ 754309.736337286303751, 4273474.427083162590861 ] } }
+]
+}
