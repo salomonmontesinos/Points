@@ -12,6 +12,19 @@
       }
     },
     {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              40.970110, -5.649017
+            ]
+          }
+        },
+    {
       "type": "Feature",
       "properties": {},
       "geometry": {
