@@ -195,6 +195,16 @@
           -12.13247
         ]
       }
+{
+      "type": "Feature",
+      "properties": {"name": "Mi Ubicación"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.95594,
+          -55.13447
+        ]
+      }
     }
       
   ]
